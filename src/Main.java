@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("This is a Java program.");
         System.out.println("I'm learning Java!");
+        int number = 5;
     }
 }
